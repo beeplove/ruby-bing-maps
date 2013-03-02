@@ -1,4 +1,4 @@
 ruby-bing-maps
 ==============
 
-Ruby API for Bing Maps
+Bing Maps API for Ruby Language
