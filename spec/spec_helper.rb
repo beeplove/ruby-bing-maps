@@ -18,3 +18,5 @@ RSpec.configure do |config|
   config.libs = ['lib']
   config.requires = ['bing_maps.rb']
 end
+
+include Bing
