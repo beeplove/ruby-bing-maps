@@ -14,4 +14,7 @@ RSpec.configure do |config|
   # the seed, which is printed after each run.
   #     --seed 1234
   config.order = 'random'
+
+  config.libs = ['lib']
+  config.requires = ['bing_maps.rb']
 end
